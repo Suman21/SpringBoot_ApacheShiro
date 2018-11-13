@@ -1,0 +1,15 @@
+org/ddriven/config/MyShiroRealm.class
+org/ddriven/config/SwaggerConfig.class
+org/ddriven/repository/UserRepository.class
+org/ddriven/controllers/UserController.class
+org/ddriven/service/impl/RoleServiceImpl.class
+org/ddriven/service/RoleService.class
+org/ddriven/User.class
+org/ddriven/controllers/RoleController.class
+org/ddriven/models/Permission.class
+org/ddriven/service/impl/UserServiceImpl.class
+org/ddriven/service/UserService.class
+org/ddriven/models/Role.class
+org/ddriven/config/ShiroConfig.class
+org/ddriven/models/Users.class
+org/ddriven/repository/RoleRepository.class
